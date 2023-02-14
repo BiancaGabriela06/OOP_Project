@@ -4,9 +4,9 @@ Project about accesories store using OOP principles: abstraction, inheritance, e
 This project had to have included design patterns, STL, upcast/dynamic_cast and an interactive menu.
 
 Design Patterns used:
-      1. Abstract Object Factory
-      2. Singleton Class
-      3. Strategy Pattern
+      * Abstract Object Factory
+      * Singleton Class
+      * Strategy Pattern
      
 How to use the project
 Download zip, then extract files and run the main file. The interactive menu will help you. Step by step you will receive information about datas that needs to be given to the program. 
